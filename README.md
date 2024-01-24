@@ -1,2 +1,2 @@
 # Development project
-this is my Amazon end to end project );
+this is my development end to end project );
